@@ -3,10 +3,10 @@
 Health Indicative Monitor acronymed H.I.M is a intelligent cognitive medical assistance that will assist people to diagnose their symptoms and predict what problem the user might be having. By no means is this a tool aimed to replace doctors but it will just be a tool for people to quickly guess what problem they might have and will ultimately recommend a doctor for the same.
 
 ## What we aspire to achieve:
-           We sincerely believe HealthCare is a fundamental right and a basic amenity that should be available to one and all. This product is specifically aimed to serve economically weaker strata of the society who can not run to a doctor and pay 500 bucks for every time they get a headache. There is a Multilingual voice interaction feature available so as make the chat box more inclusive and a global product.
+We sincerely believe HealthCare is a fundamental right and a basic amenity that should be available to one and all. This product is specifically aimed to serve economically weaker strata of the society who can not run to a doctor and pay 500 bucks for every time they get a headache. There is a Multilingual voice interaction feature available so as make the chat box more inclusive and a global product.
   
 ## Working of H.I.M: 
-          We have a simple chat box in form of a webApp where users can enter their query i.e the type of discomfort they are feeling or the health issue they are currently undergoing and the bot will then ask a series of queries to the users and based on the answer given by the user it will at the end predict what disease a user might have. A demo working of the chat box is given below:
+We have a simple chat box in form of a webApp where users can enter their query i.e the type of discomfort they are feeling or the health issue they are currently undergoing and the bot will then ask a series of queries to the users and based on the answer given by the user it will at the end predict what disease a user might have. A demo working of the chat box is given below:
 
 >>>USER : Hi.
 
