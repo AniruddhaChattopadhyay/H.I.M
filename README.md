@@ -33,7 +33,8 @@ We have a simple chat box in form of a webApp where users can enter their query 
 >>>H.I.M : Do you feel pukish or have you vomited in the past 2-3 days?
 
 >>>USER : Yes
->>>H.I.M : On a cursory reading it seems you might have Typhoid. But then I am sometimes                                                                                                  wrong and I sincerely hope you are completely okay and will get well soon. It is highly recommended that you consult a physician immediately. Would you like me too book an             appointment for you?
+
+>>>H.I.M : On a cursory reading it seems you might have Typhoid. But then I am sometimes wrong and I sincerely hope you are completely okay and will get well soon. It is highly recommended that you consult a physician immediately. Would you like me too book an            appointment for you?
 
 
 >>>USER : No Thanks. 
